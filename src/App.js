@@ -107,11 +107,11 @@ function PlayerPicto(props) {
     >
       <img
         style={{ width: "100%", position: "absolute", top: "-9%" }}
-        src={selected ? `/images/${selected}p-select.png` : null}
+        src={selected ? `./images/${selected}p-select.png` : null}
       />
       <img
         style={{ width: "100%" }}
-        src={`/images/players/tiny/${props.name}.jpg`}
+        src={`./images/players/tiny/${props.name}.jpg`}
       />
     </Col>
   );
@@ -122,10 +122,10 @@ function Player(props) {
     <div
       style={{ display: "flex", alignItems: "center", flexDirection: "column" }}
     >
-      <img style={{ width: "40%" }} src={`/images/${props.player}p.jpg`} />
+      <img style={{ width: "40%" }} src={`./images/${props.player}p.jpg`} />
       <img
         style={{ width: "100%" }}
-        src={`/images/players/large/${props.name}.jpg`}
+        src={`./images/players/large/${props.name}.jpg`}
       />
     </div>
   );
