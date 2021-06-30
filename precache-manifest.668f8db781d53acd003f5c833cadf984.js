@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2de55fad2d809ad00f98a15cf30f928",
+    "revision": "4ed06b2029eba099b359d1815c132163",
     "url": "/street-fighter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/street-fighter/static/css/2.60ff825d.chunk.css"
   },
   {
-    "revision": "6135643173ed5f1772b0",
+    "revision": "1b1e9e2edf2cd96308a9",
     "url": "/street-fighter/static/css/main.f31b1abb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/street-fighter/static/js/2.01e2b523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6135643173ed5f1772b0",
-    "url": "/street-fighter/static/js/main.fd9d7285.chunk.js"
+    "revision": "1b1e9e2edf2cd96308a9",
+    "url": "/street-fighter/static/js/main.da36f390.chunk.js"
   },
   {
     "revision": "fb26459ed9f000796fe7",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/street-fighter/static/css/main.f31b1abb.chunk.css",
-    "main.js": "/street-fighter/static/js/main.fd9d7285.chunk.js",
-    "main.js.map": "/street-fighter/static/js/main.fd9d7285.chunk.js.map",
+    "main.js": "/street-fighter/static/js/main.da36f390.chunk.js",
+    "main.js.map": "/street-fighter/static/js/main.da36f390.chunk.js.map",
     "runtime-main.js": "/street-fighter/static/js/runtime-main.db5516d8.js",
     "runtime-main.js.map": "/street-fighter/static/js/runtime-main.db5516d8.js.map",
     "static/css/2.60ff825d.chunk.css": "/street-fighter/static/css/2.60ff825d.chunk.css",
     "static/js/2.01e2b523.chunk.js": "/street-fighter/static/js/2.01e2b523.chunk.js",
     "static/js/2.01e2b523.chunk.js.map": "/street-fighter/static/js/2.01e2b523.chunk.js.map",
     "index.html": "/street-fighter/index.html",
-    "precache-manifest.857e47e51ef079c5691d29abc2b05fe4.js": "/street-fighter/precache-manifest.857e47e51ef079c5691d29abc2b05fe4.js",
+    "precache-manifest.668f8db781d53acd003f5c833cadf984.js": "/street-fighter/precache-manifest.668f8db781d53acd003f5c833cadf984.js",
     "service-worker.js": "/street-fighter/service-worker.js",
     "static/css/2.60ff825d.chunk.css.map": "/street-fighter/static/css/2.60ff825d.chunk.css.map",
     "static/css/main.f31b1abb.chunk.css.map": "/street-fighter/static/css/main.f31b1abb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.60ff825d.chunk.css",
     "static/js/2.01e2b523.chunk.js",
     "static/css/main.f31b1abb.chunk.css",
-    "static/js/main.fd9d7285.chunk.js"
+    "static/js/main.da36f390.chunk.js"
   ]
 }
